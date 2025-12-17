@@ -4,6 +4,10 @@
 
 Step into the ultimate chess-inspired brain challenge. **Chess: Bishop Zero** transforms a single chess piece into a game of precision, strategy, and perfect balance. Every move counts — one misstep, and the path is broken. There’s no luck here, only sharp logic and foresight.
 
+## 🔗 Get the Game
+
+[Download on the App Store](https://apps.apple.com/vn/app/chess-bishop-zero/id6756613256)
+
 ---
 
 ## 🧩 Game Highlights
