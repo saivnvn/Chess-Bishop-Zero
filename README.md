@@ -20,8 +20,7 @@ Step into the ultimate chess-inspired brain challenge. **Chess: Bishop Zero** tr
 
 ## 🎮 Screenshots
 
-| ![Screenshot 1](anh1.jpg) | ![Screenshot 2](anh2.jpg) | ![Screenshot 3](anh3.jpg) |
-|----------------------------|----------------------------|----------------------------|
+| ![Screenshot 1](anh1.jpg) |
 
 ---
 
